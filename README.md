@@ -1,7 +1,5 @@
 # jetcd - A Java client for etcd
 
-jetcd requires JDK 8 to work correctly.
-
 [![Build Status](https://travis-ci.org/coreos/jetcd.svg?branch=master)](https://travis-ci.org/coreos/jetcd)
 
 ## Getting started
